@@ -34,14 +34,10 @@
 ++  criteria
   |=  a=tape
   ^-  ?
-  ::  ~&  (six-digits a)
-  ::  ~&  +:(dup a)
-  ::  ~&  +:(increase a)
-  ::  ~&  (range (scan a dem))
   ?&  (six-digits a)
       +:(dup a)
       +:(increase a)
-      ::  (range (scan a dem))
+       (range (scan a dem))
   ==
 ::
 ++  six-digits
