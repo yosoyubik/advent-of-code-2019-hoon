@@ -12,6 +12,21 @@
       "K)L"
       "C)D"
   ==
+++  example-2
+  :~  "COM)B"
+      "B)C"
+      "D)E"
+      "E)F"
+      "B)G"
+      "G)H"
+      "D)I"
+      "E)J"
+      "J)K"
+      "K)L"
+      "C)D"
+      "K)YOU"
+      "I)SAN"
+  ==
 ++  mapa
  :~  "ZR5)FZS"
      "WCY)ZB3"
